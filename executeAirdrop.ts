@@ -9,6 +9,8 @@ import { TokenInfo, readJson, writeJson } from "./prepareAirdrop";
 const USE_MAINNET = false;
 const MAGIC_EDEN_ADDRESS = "GUfCR9mK6azb9vcpsxgXyj7XRPAKJd4KMHTTVvtncGgp";
 
+export const ERROR_FILE_PATH = "./error.json";
+
 async function sendToken(connection: web3.Connection, dropInfo: TokenInfo, sender: web3.Keypair): Promise<string>{
 
     if(!dropInfo.sendableAmount || !dropInfo.sendableTokenMint || !dropInfo.owner) return "";
@@ -56,7 +58,7 @@ async function sendToken(connection: web3.Connection, dropInfo: TokenInfo, sende
         )
     transaction.add(transferInstruction);
 
-    console.log("Sending form", sourceAccount.toBase58(),"to", destinationAccount.toBase58());
+    console.log("Sending from", sourceAccount.toBase58(),"to", destinationAccount.toBase58());
 
     const txid = await web3.sendAndConfirmTransaction(
         connection, transaction, [sender], { commitment: 'confirmed' });
@@ -75,6 +77,11 @@ export function loadWalletKey(keypairFile:string): web3.Keypair {
     return loaded;
   }
 
+
+export function writeErrors(data: TokenInfo[]){
+    let json = JSON.stringify(data);
+    fs.writeFileSync(ERROR_FILE_PATH, json);
+}
 async function main() {
 
     const rpcHost = web3.clusterApiUrl(USE_MAINNET?"mainnet-beta":"devnet");
@@ -82,26 +89,30 @@ async function main() {
 
     const allInfo = readJson();
     
-    const myKeypairFile = "C:\\Users\\loopc\\wkdir\\DEVkasD4qwUJQ8LS7rcJHcGDQQzrEtWgk2jB6v5FHngo.json";
+    const myKeypairFile = "C:\\Users\\camyt\\Desktop\\SolanaCLI\\Devnet\\Cam81DqfS9jSXTRG7wUPYFVKRpQqUmveMRawkPaYqufR.json";
     const sender = loadWalletKey(myKeypairFile);
 
     //const txid = await sendToken(c, allInfo[0], sender);
     //console.log(txid);
     //return;
 
+    let errorTransactions: TokenInfo[] = [];
     for (let i = 0; i<allInfo.length; i++){
         if(!allInfo[i].txid){
-            if(allInfo[i].owner === MAGIC_EDEN_ADDRESS) {
-                console.log("skipping MagicEden address...");
-                continue;
-            }
-            const txid = await sendToken(c, allInfo[i], sender);
-            allInfo[i].txid = txid;
+            const txid = await sendToken(c, allInfo[i], sender).then((txn) => {
+                console.log(`Successfully sent ${allInfo[i].discordUser} WL tokens to ${allInfo[i].owner}`);
+                allInfo[i].txid = txn;
+            }).catch( err => {
+                console.log(err);
+                errorTransactions.push(allInfo[i]);
+            });
+
             writeJson(allInfo);
-            console.log(txid);
+            // console.log(txid);
             await new Promise(f => setTimeout(f, 500));
         }
     }
+    writeErrors(errorTransactions);
 
 }
 

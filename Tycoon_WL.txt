@@ -1,0 +1,143 @@
+DiscordId;DiscordUser;WalletAddress;WhitelistRole;HolderScore;WhaleScore;WalletValue;NFTValue;NFTsMinted;NFTsBought;NFTsSold;NFTsFlipped;NFTsFlippedWithProfit
+201104475384053760;ProfessorP#3803;8z53sLAZmjBCJFSuufY3t5QkrNGpySNUWTiqgT7D9w6F;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+725608185121079318;CharlesSpirit#7350;DXjGeKCNxWEtTtoCLG4m2skWeN75Xc5yTetU2JBE1Aaw;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+620201980257632256;zhekazzzm#0562;BjTm9sejoxXw8BCxSYAsvE5yjBgCdibmSuLvAKosozDq;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+665565372610641920;Anton$42rus | CLUBnika#1929;6xpprEcT1rkqWwpVbCTUWue6jpCrdLZavqHj9PKoZbP3;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+942795951481974815;Raphcom01#5554;5Xa9yDeJ3Peu1zTrobk9STKrbhpnMFkNDGf39tMPWmQA;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+936209623910842369;SerStøph#6969;FqcLkZZziDhtHB1Zoocjw58onzR8oJE5PZATRV8r1R63;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+889384228830212136;ArdangArt#6213;J9Hrewx2StNEYmn38Wt58eaoZVRXPkGNdrqiqczWLFYp;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+710042189983383603;tetsu0808 || halo labs#7290;GYtCFtew2T7cchLFgLKmDeFZs4EM55r6ZAKAqHDMaLRR;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+922366356521902080;joinhtet#7297;9zcL3kUiFzrJNqPT4xZ3EozVrzZa83yAr3ThzzDAxiis;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+912866110699888681;Myothandar#9777;BmExChneeDqygEyYAW2HqnGLSeqXaYV17223LFen5aJK;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+607237367098769428;Elite#8888;73oPpWhrRRmccEf4z98TbFEDHGr4ajh6CjfMkEjhGzZH;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+846199327504072704;jflexzy#9900;42hocL3nVBy36dv1D7mSQYnWXYRv1CznwySYQUCUgVUw;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+365912622849196033;Zurapi | B#2568;6iFPvgjwq8nYKkccEeg2HCJ7ys3b69yaBW9hPhSxmR9K;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+406215819413028864;sirlaw#1886;GaUEp346run4xVLEn3JFtz8GCP7BCMaxpHHqwpQsG8xs;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+920744625780707348;Kingsammy#8515;3kMtFCfep81BigVg231GhJLKWcqrtHrdPMgtUB9cuJgx;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+689084750639661107;Mchine#4084;2VUjQbSsDRgXykBFcEbkHJAoGKtVifsB1VsWxrEuRWzs;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+956287716969050152;The Crown exchange#9324;vJWwr4dscFXyZbcGGFnNQZEXBQZa4nty6hFhG91oC7H;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+942087076164304957;Linn Linn Htet#8828;382MFxPmpu7LbnRNE6nqY9Pifm9ViMTPSQQ9mMXCus1L;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+696471443076284466;Basyrov_Art | FOMO#8679;EMCoRHp1p2eWi6LHLBqWpz6gLxWwyRa3sbwEg9fDvWAE;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+906817394721300550;sabi Big Baller /PGP/💎14#6704;ELGnyJkusH8h7Wy3rTnHNCdXmE7kKfS4nXcG5TWH5Tpc;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+877072539644481547;Jaicha#4480;9cVzMbhZU3E8nguQqCR2wJAqJKMqGYzLCeW1ETJaac9z;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+965936303340404748;Echothat#9788;71y96WHuVYeSGGapi1j3wt3xUVYVPp9izx9bsuM6Zaoe;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+802989906048974849;FATHER'S LOVE#2493;7gAqN1f5B1JN5vHBdxBMKDKcymLFJwTQbDST8uv1VAnM;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+826927664349970543;I MUST BE REGULATED#8040;N1ky3M5MCmuFGY3YZtdogKR2thvhoVKPpD19r2fsvCL;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+967694203670888448;Lwin Kun#2040;8ecACpPXqdJ87fgT1SHYURpUEU22GG3kqSAbaeye4s22;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+831547487470223360;bosco00#0332;5ciQHYN65QwDSPn4TqF9xdSniiFsVgFXdAfK1uVQZcAJ;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+744882901455470612;STARite#5260;9yAAC8X8HJ2coDxJzWimUFv91vNqGD5RpmD4rcuxh9E4;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+895205700953845771;Ishan007[Communi3]#6750;YtufSYN34awZH9fVb5UDPS27Nc6uXaKjrsrQaUawHBF;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+916958958978232371;Morenikejimi#5690;9G6xAu8eiwghQwzEpBkFW47HwCG5aAyCSxGKAZggUK98;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+891222782392819742;aungpyae#8178;7ux8y5y8ASxTowdeg4kjm3FFBcPLd42rM4CeBAsPHpvM;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+806896834714402826;Kane | PMK#6587;3F7dQ7jkgvdT9dNsE9DqWRNx2ECsWLWSLgJz6mHerE69;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+905830760450261102;Jack son#3728;BuVessAwKzrAt2FXSZqwNxHJjah4ekQCBh8TBUhxnXRQ;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+943400727433322566;🥔  P O TaT O [PMK] 🥔#3867;8RewhbxuMYbLPMu4Ak1kXpo2RqZZfpoGBDPtEuyi5B3j;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+756132263934296094;Naing Lin Kyaw#0910;CLp36WesBurM7DREU3VUbiGqqi5f9Q32jLmgh8CpA9Tv;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+924944443700826134;Warden#5344;GWKMSvnP8DHYNzeUoQ8Mt7hzTTAL7H6UABAnaSspb73L;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+841893611066753034;LAREEZY#4965;2QjiTWP7hFrSxM4iyAzv34Fd59GTBj2UdvDLdcg7FrUV;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+958857740829220864;Run Jio#4136;6tEMPaVgtx4gByFrNiM6cC7C7HZ5rNU1rBani2Xt9CxA;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+749774713114329088;Awesome Romeo#1569;5RZAE2vgZXVk8NmVXuCSUBVBYvTWyzsdjDXZPKJuraNS;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+838901686562062346;Iamzee1704 | Deviant bunnies#0832;Dn4gLVxrScHu3S2sRzfAWQujpssnUfm2Ki4xifBKNAzK;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+764611147152228353;theapegrinch#3035;32dpVN55mcibYtCnb9PAZvXeewPk5KaQCSD6rfHPmj9m;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+305173746795151360;Lezz#1000;9LKKNV8kSNQJ5jRRs382BDqgyS4755YHFXZSnTjksd5C;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+575276940093554708;Swibs#5861;HXWqYgvm59irLkeQX2jQQyY65uBMWEBFYp7rSZWNpBCi;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+964386873650843678;Lyon#8107;E8vABCuHP6KLZgHFY6Mx7fLUW118krtovBE3zv3pkTxR;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+753880929310867476;PNLP#6246;CGoU94dYDLZNnrHvkHSvDufq2HfMNMEPmGdYSW7Y8n5V;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+478171561833136129;AungMyo |TE|#1855;9jWzBTgkVgibDfJRUeXPWxXVR16Ysvzx8L8Tmd65KoGZ;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+885932791836069938;Luminous | PMK#8304;FxZr8rcZNzMAogWmSGXMdsFRETfazwb6zsJB7oMtv8BX;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+968469090404532274;Kami Light#9620;45NYoob1BM84Z7W4HrYRLmxiqFigrW9DcYQiJ2pze7Qn;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+479315643133329409;gado#2516;7wyYcJnhE2Sdkvo1JLNNFofVUw1vkU9pwUdMMoVMLPEa;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+245124895095128066;KevinCurtisss#0931;5kCv7JmLYgzVmk1VNFxvmAm4Vu9dLWm51J4SfXmP3wbY;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+877172568036114493;Kyūketsuki 吸血鬼#8322;DAWcSSur9pFvo7pQHtyFnmuwaLdUwDcHyJDGsp7RdNbD;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+746285584808673340;®NOTYET_ReGuLaTeD#4208;EjQuYWWCeSsAhXgRQjo7vRY7FvBaR71vqXB82BcctVLG;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+904330657684135986;yanz | chunchun | RDG#1875;7B8TX3WqY5VHnjH2WN3XrWeJNzXgQeKW5kaVFz4bMzmq;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+887956442336854046;TemmyBlaq#9404;CSPGMrMje3aQq4jhAmxtuKQJnRXVCrPWdiozWsr2Xhxt;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+595249351815725056;ig#6063;3idUdDkmTCZ6ZbZSxg7gZ85KSXW9BADFZBppYvcyyGt8;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+951140340188995604;PaingMyatHmue PMK#6979;9KQSR1w6BkwyuV8c7jGAy6yPpK3Khpp11GLotU6Y1AtV;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+396310652098183179;Jeffyyss#0559;8YcrJEMtx358nBTLjwUb8tquU9nt9KXvYFXWjDord6CQ;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+954675985696055346;folashade#2457;8HXuUBUcxBdGrwPU79rHpbvvwHE58d28zmLv2zxgrAku;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+822865551328018462;FEITAN ETH | RSA | RAA#8301;Fjf1ZLrk5Ti2HqZTrqLWQ8bg793Y4gv5atuqUVxLupxo;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+706876270520303627;Raf#7819;EuNNRBWE4mzK3XqBQZMrtSPUKpkfEqaRR6USs2wFYJht;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+867059084955090974;C H O C O#6399;2qCHiDUov8phhNqjCechkzgoTprvG6hJztaPMrGjwSWu;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+921669925574156309;KyawK#3496;EmvUzBgbrdWsLztjK1JVMA6v8m9tAGzBZ62hYpfvRzWU;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+727675042330312823;blaQ {4,4,4}#4832;3qAP5kH8KgfTMgZqGTYWN7dnL1oFXksUQnkGzRtAfL97;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+810429672440594442;Bravest Lion#5875;HgPrBdy1VaoL3h4zD4pv2S6zGYvpUuP4jJFSy9fvaFpp;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+818154325515042816;RI0th#0924;HGYgaG6Zn5vHkUKn8PoQU8QFsaSiR6E63EsdYq57nWUp;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+219809395826098177;Bugxie#9864;WWGrkp3k2w3KDYDzuiWEzdbrNW6T3pmonox6c18UkBm;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+503623836345040907;Kaian#1236;HbGrUWEwaRDPZt2UC6cv4NewXYVf2ERfsEEnCF94JrGW;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+928962938742652978;mgla#0161;5BJkTVNw7pmUak8QsSvqCfZeBZcJpbtTHGkYm9SgPtox;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+937445143286521866;Geegi|dope🌿#5958;AGXUBZiW22LR5tjmzg7AfngyETz8SKjfBUoHq36P6XCb;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+838055161800687656;edisonradit93#0239;GZggmTjgfRNSbbVLbD7J1G5CeopiuwujjGAmccbG7Lxj;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+939805495156432977;Cora#7333;owc8QCF8xwba9zspL3ksUhneBMCEFbzzWwMmwNrfLh6;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+950880528641445899;Havock🌸#2760;CRkGVLmc48MdySV26fwAxyGP6C3WkSTDuwPW3rcynCPW;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+957220245477687296;jinny#5259;2BV8FRPYpTi3eMHSPxzCsvNHuT2jsoRzzh5ATsRneQpu;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+954415863786799154;2ruetalk#2709;FFABP2yCqDnJYWxUdMnvBK5f3MawSicLcH8FPBYjfvh8;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+755442241400471654;MONICA { 6 9 1  }#9584;FZ5a7mbye9Xgetz7Scb8j88DRdbHsz5jMsFfdM7bq79F;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+932353499314937917;Marong#8030;Gsfgt8VP4jkqX3rZkrSaE8RTPi6zSCR8FRu422jCd9y8;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+793577873171677254;Moseslove|DesertRavers#1457;9FKwbut9fiRQTtsoe7ZAxw5yaoRYbC1TgLJwuqUJpPXy;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+946171663005941771;Trader Recon#5851;CQvT3hv7vsr4He5fYH721WcLtb7ub9JApuFJu6Sq5ifL;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+885789098755907646;Jaden freeman|Royal panther#0416;8328sWYSnGxyotuGstwvByz5ra2x1SVzCk4oPFTMqRCH;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+959036945147777084;1m0cent#0718;J67CUnPJoVp1TrDLuLjEbs6w7RTaiCjeSRwGcRptVhx7;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+679014720799375390;RassaWassa#9873;GVm4T96N9UCG3A2oLTRRb4T4LukM8nyyrNFazXA4dTAa;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+768460435757727745;Xexza#1168;3EiRxqhwaWMvY9CerXAxcwjm984UNTgpq7ngLz5MLGdn;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+872558506950144052;AhHtoo#4013;Cd1dQvMZWHs7re7xNNqVSeRqSh8EXUM5t7Mxz9jqPpJR;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+928216147013292042;Ne1le ☁#2703;h5bxHHcYsYomJi2HFLDcUCGc9SYf8jnC5hmnDT4aNth;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+936428253277732915;Sashi#0222;9V3fRW89qMX3A64h8toRHGqju8adPpXeqFKFAhVZR8QY;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+890933032150786158;Oyenma|YOGIES|COMMUNI3#4163;B49CVFo6LzkX74TvZwxmneNWchhzWFyrbH1NJn8rifXR;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+828313451889819739;akinphemy#3189;E9sE1JRE4q7wVdUXCafsbu6XoVQpqE7cktS8befoEgyy;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+927207197623087127;Eleanor#3449;B1ZRDFKx17oLVLNuSFenbCFPb3xz8d3Ufo5UhU5iURNe;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+820589293181337610;Trendz#2055;48nM6hrYmZ6mHfQSTXnk8Bv55oJGF1BRiZFwCcpUW9K5;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+887835521756311563;twosix#2662;8yqycgWDL9eaxrjT1YLbhzCK7iYs1ZxX5Adokfrt9Qfx;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+843999342993604628;Oneboyinafrica#6686;G7jL4grLYy8C3VGkRRF9X4iCciTNjq3nT9naWar43pno;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+881851708089729095;🌟❄Gibby❄🌟 ‡ RONIN {4,4,4}#5956;DZmZJ5VDCKPUk1PNYxuhVEnSnQWvE6uKaYx1LoXPTQED;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+888856999788433478;Stinotino#4602;DfwcPsgixRbzMQctBriYhcx2iGjU7McTGjFV3Wv5vmr;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+893113167197130782;sunshine | REGULATED#0321;G5S2PxorTVESxUXaYZFdZJaHTR19HGXiPiZYURZVZCfd;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+967663945840201809;Abelii#1649;8VJFd5MkeDHkT3WsTewH59pgcz7nkHNjRHnvePmpoPwL;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+864485438613094411;bithereum#6969;5KAoZjZdoym1Nr1XtkwAhESqaC32kcjZLp8DCbFYQNJA;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+950809034380959804;mukhtar5🍏#7009;6yvWUYvfD57yVGbuhisxGU6Q4y5udzjSDBSvJkdqrc1j;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+853428931964436521;iamTiwatope#5396;DL5nfBQmYcgnXtVQxvyTdfi9KpLpKBefFm267W9PqAoE;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+937606580512387102;ola3600 | CANNAVESRSE SIDE CHICK#5005;D25qgzUGMG87iNPZFm85ZbfVy998b2Kn2WQqjTb197Cb;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+923333335026106468;Joan|urbanboys👸💙💙💫🌀🌏#7262;HViAo8fpu45XM5QWVfV1M2ZRVyj8LodJHBqU84hn4Ks1;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+782939799043833856;Temmywealth#7393;3NaNwZNXov1nqwEwxphCCE3fxzUKbgQ4mpauiMgsmyXQ;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+830412357674598410;Jaguar#7113;Ft5DANHjmP94Zz6b9GmFAYj1QaMx5EsN6t1UsvSPrtEX;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+451978411318050818;mondbest#7823;G5LJTsP1KEwEmgqQhAvGoCTjUJrcigHgpDLDWmkT7UZF;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+960147129605697576;Somtieee#4166;CF7nN1vCmHxUCrdK8zEcZ9vkhoRUEVNoaFUYyMiAWrfi;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+863746330753237042;karma07#0425;CjwXxgwdiqhjqkmckPJTNtgi2Uk3wNwCxpabGtwj9pXC;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+916207853247795221;Fareed_codes#0529;3YTTitvkiRzxBp5yiBXTswtxEmZee7jfC84YzScwDUK6;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+968853643610685521;Akindams#0418;6ZovQpQ9jPUV9BBYvKWGJub83mnrBBhuFQKUZBAEZudM;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+462285775313174529;Ebun#9172;Ga2gbpW6S9odS6kvuPbcfoPXUu7eNGLny7kybKGnf5Vt;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+693349104465739817;Di8blo#1869;91WVfXvd9JcmsNvSorBSJLUjfQxcNavRpqR3TPgH7oJN;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+889151276003258408;RalphLaw | Clover#1339;EgXkiJbxad8tutkCKvoVnVkcn7wdMP6be16RXJ5nJtR;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+969082965646786600;amino | PMK#1831;5myH4jimfqASzWQxbqE97C4hVaqypoC575W7AXHKANr1;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+967308261558734899;M03N7A NEVER SLEEP/CANNAVERSE#2187;FfZrfCSM7r5KTYXSQrRqXnxoSZhBxwf2SXGWW1AjeEkp;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+969223041471090710;marygold#4430;DRq6qMyTca5hEE7LyG9kXHzUtHxSj9GFAQMVnsoSLzYF;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+965207487903051776;Victor05#0971;8oqAo2LzbkAgWiGwzG1UdEdLGKvuq7WatiaS26XZuSxs;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+558330869983477789;Dibzy to be Regulated#2880;7eYzFQtgnbp6XCiTTCoPedywE9rMn4rSm2gh3ohekHoY;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+959161330563178516;tostotee#4659;B9cj6vhM3hQ5Lr1AZPrcQg9p5bWTGgePibdb8QznyviW;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+827235112134508545;Tim'Williams#5163;2Nix7VFkzCMzhuSsimMQi9YaU6zQxc96xdjBSztGrnya;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+963449616219656202;OhMyGirls Nft remy jay#7586;ADxwMRHdkUjEYnEEFMXHDegXGpomCPsuz4d1PQJHSAV3;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+895104477038800906;Xdiamond|OMG#3946;5KSNHoQo3tbZZp4k2N6SwM2qzbbGi75rpqMFTzbNb6Xc;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+516396341740568606;LinthitNay#0172;FoyMdJfBQCtjCRqRcWGMgJmskLosuFYKVVCqPNMKHJ3a;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+929337000132247573;babyaye#6535;FXLTdaDxRucvzngNboQVTQeHJrCGy4dpgfsdQrzJtEeM;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+839875382115434576;R I Z E E R I Z E E#6837;4pUb8pQEUB86S9wSP3ofXkWPniKNgBDMm7zSFUQQZSM7;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+955074831601270825;Royalmac#4747;6X5Rr8oAsmjwYFnf9mdG4tcYgJ1eemjVKndFLN1a3rka;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+727306154010738759;LOD#7464;EvKCg9hK4ZgX8pEn6TYBXD62wN2VAXdfFp3W15Rtu6cp;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+338521136914497546;D'Rocker#1888;8aJX8AnAGPH5a279uH2JUpzMRZVCGeGsqJa2SeGX1HmM;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+740763083177197658;Jonesbiller#1670;2FZTjzJLjVbjWM2cL5cCHfVhTGeGsepKXRutsk7R7CAQ;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+967744153125531648;Timi#8746;F2ZVRFrsK5Uewm7NALVDUSx8vE3JX64UoX88bY3k6W1T;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+925008660617396315;gracy2021#9599;8NvPfMwodGftBAZSzYVoioBALbQh2BTLx4vfUQKWrSkB;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+827539000603836466;Mile2000#0244;3wxGoHLcm9eT7GgEVY2wG7gm3oNAAcrCFsjomTnR46Yu;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+853557103012085780;Grinder😺#4840;prG4cknMbf8Pr5m4ViN4EHf47PMEuPWJB8qaUJMJJi8;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+963546977554010192;Andrewgoes88! APES PLANET NFT#4705;H8KoC9WWPEAkVxPXvZ4L3SxH74WfBpxP9TpuKUaWxdmB;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+795955617516486706;Dark North#4530;9ELWoFZXbZi9nbFtEV8rfyPXM9oZxWFjRmN76qrVRYcZ;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+769918218541596704;3litewarrior#0764;EbFoQH7kQgBFoKsJu24qfJgkvkxLceK7dYoWPrgVfzWQ;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+826928769818296391;Christopher#6566;952JKKYgFF5P3Pf6SaCEPiZhoXMnTKxHKGdPt5ZfasuS;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+955208940315091015;Babskay#6030;D28R4FAfqokC26nK4DRpZbL4qsWjs2G2CSRBJcJmH9MF;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+895701651070025729;Baste🐻#0428;myjqiJb4dDdk5GaUr4bpAKvP5y9DPHRWxJeaDvxFMye;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+963311263633539093;Mommy Rain#7140;DGZYuk2yJ8CfYephtZ7DEhor99Uz68RLF51fGSEcUUjU;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+956114297782665220;$Urchbaby#6047;axQCeLabFgjmX7xWADU79wCUZo3TJZf1DwFdG12HSLN;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+968819426902282310;oguzor Daniel#7463;3WFNKhi2o7HeuTKoHaVZU46Z81GSKofzo6ss65n5NWTg;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+757991958596812932;Simõess96#1798;8oanjAG1iLyxjZfZCc1DurfFab789M21XHbec48aG8Hr;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+965472293734207488;cisco99#8840;8uASGbWmNUL748V9pkicm4Aue1DnrWzgh16iy3SB7hbD;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+961655843567321088;Ui_Yamburger/SFX#4887;2SHC3HnaATnY9W4FeL4tzaZyEotjejCuqb6rPdpBYuJo;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
+965156184246071306;kelly#5336;Fmg7DRk9RgCu8mds8HNhfQSwXEZ86LgBa7g1gSY7jjmt;Tycoon WL;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted;Redacted
