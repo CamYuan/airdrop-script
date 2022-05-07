@@ -6,7 +6,7 @@ const fs = require('fs');
 
 import { TokenInfo, readJson, writeJson } from "./prepareAirdrop";
 
-const USE_MAINNET = false;
+const USE_MAINNET = true;
 const MAGIC_EDEN_ADDRESS = "GUfCR9mK6azb9vcpsxgXyj7XRPAKJd4KMHTTVvtncGgp";
 
 export const ERROR_FILE_PATH = "./error.json";

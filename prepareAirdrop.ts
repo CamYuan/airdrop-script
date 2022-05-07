@@ -7,7 +7,8 @@ import { token } from '@project-serum/anchor/dist/cjs/utils';
 import * as fs from 'fs';
 
 const TOKEN_TO_SEND = "ApeWLUZp1WGZdYnFEVubpTEzaNg2cpw182DKitLsyuRd";
-const AMOUNT_TO_SEND = 1; // including decimans
+const AMOUNT_TO_SEND = 3; // including decimans
+const WHITELIST_FILE = 'Entrepreneur_WL.txt';
 
 export const PROGRESS_FILE_PATH = "./progress.json";
 
@@ -55,7 +56,7 @@ async function main(){
     const c = new anchor.web3.Connection(rpcHost);
     let allInfo: TokenInfo[] = [];
 
-    const file = fs.readFileSync('Investor_WL.txt','utf8').toString().split("\n");
+    const file = fs.readFileSync(WHITELIST_FILE,'utf8').toString().split("\n");
     for(let i = 1; i < file.length; i++) {
         // console.log(file[i]);
         const record = file[i].split(';');
